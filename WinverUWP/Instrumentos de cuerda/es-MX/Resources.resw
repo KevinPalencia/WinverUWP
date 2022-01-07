@@ -117,19 +117,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AboutWindows.Text" xml:space="preserve">
+  <data name="Acerca deWindows.Text" xml:space="preserve">
     <value>Acerca de Windows</value>
   </data>
-  <data name="Copied" xml:space="preserve">
+  <data name="Copiado" xml:space="preserve">
     <value>¡Copiado en el portapapeles!</value>
   </data>
   <data name="CopyButton.Content" xml:space="preserve">
     <value>Copiar</value>
   </data>
-  <data name="Edition.Text" xml:space="preserve">
+  <data name="Edición.Text" xml:space="preserve">
     <value>Edición</value>
   </data>
-  <data name="Experience.Text" xml:space="preserve">
+  <data name="Experiencia.Text" xml:space="preserve">
     <value>Experiencia</value>
   </data>
   <data name="ExperiencePack" xml:space="preserve">
